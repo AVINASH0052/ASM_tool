@@ -1,0 +1,6 @@
+admin
+wp-admin
+wp-login.php
+backup
+.env
+config.json
